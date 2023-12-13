@@ -1,12 +1,3 @@
-/*
-Implementiere die UI von dem Screenshot. Sie zeigt eine Liste von Produkten. 
-Jedes Listenelement soll ein Warenkorb-Icon, einen Titel und einen Preis enthalten. 
-Hierbei soll eine ListView verwendet werden.
-
-Anmerkung: leider habe ich die Aufgabe 3 mit der Bonusaufgabe dann überschrieben. Hier steht also der Code 
-der Bonusaufgabe mittlerweile
-*/
-
 import 'package:flutter/material.dart';
 
 class ListViewExercise extends StatelessWidget {

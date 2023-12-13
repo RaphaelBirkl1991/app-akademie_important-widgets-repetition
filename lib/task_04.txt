@@ -1,0 +1,8 @@
+Erstelle in jedem Projekt ein neues Git und GitHub Repository, committe jeweils deinen Code
+ und pushe den Code ins GitHub. Füge dann die Links zu den GitHub-Projekten hier ein.
+
+https://github.com/RaphaelBirkl1991/app_akademie-impotant-widgets_01.git
+
+https://github.com/RaphaelBirkl1991/app_akademie_important-widgets_02.git
+ 
+https://github.com/RaphaelBirkl1991/app-akademie_important-widgets-repetition.git

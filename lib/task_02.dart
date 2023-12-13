@@ -1,3 +1,7 @@
+/*
+Implementiere die UI von dem Screenshot. Hierbei kann dir das SizedBox-Widget helfen.
+*/
+
 import 'package:flutter/material.dart';
 
 class SizedBoxExercise extends StatelessWidget {

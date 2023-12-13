@@ -1,3 +1,6 @@
+/*
+Erstelle die UI von dem Screenshot. Hierzu musst du sowohl Column als auch Row Widgets verwenden.
+*/
 import 'package:flutter/material.dart';
 
 class ColumnAndRow extends StatelessWidget {
