@@ -20,7 +20,29 @@ class ColumnAndRow extends StatelessWidget {
           child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
-              children: [Text("AB"), Text("CD"), Text("E")]),
+              children: [
+                Text(
+                  "A B",
+                  style: TextStyle(
+                      fontSize: 25,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black26),
+                ),
+                Text(
+                  "C D",
+                  style: TextStyle(
+                      fontSize: 25,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black26),
+                ),
+                Text(
+                  "E",
+                  style: TextStyle(
+                      fontSize: 25,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black26),
+                )
+              ]),
         ),
       ),
     );
