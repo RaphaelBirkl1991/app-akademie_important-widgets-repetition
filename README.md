@@ -1,3 +1,3 @@
 # important_widgets_repetition
 
-A new Flutter project.
+Not much to see here. This is just an task from an course to sharpen the GIT skills. 
